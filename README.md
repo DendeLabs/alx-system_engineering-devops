@@ -1,1 +1,3 @@
-Linux Command Terminal and Bash Scripting
+ALX SE Africa
+
+System Engineering and DevOps track
